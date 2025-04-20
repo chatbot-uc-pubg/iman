@@ -1,2 +1,0 @@
-app_pubg_theme.py
-streamlit
